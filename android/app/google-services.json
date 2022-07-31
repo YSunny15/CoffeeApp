@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "639223564198",
+    "project_id": "coffee-for-crew",
+    "storage_bucket": "coffee-for-crew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639223564198:android:cd55507a59f0de1101f167",
+        "android_client_info": {
+          "package_name": "com.spy.firebase_crud_operations"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639223564198-228fa4lgbjetaqluetu6j2558271bu1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyrai78QT5NwUpFnT7PK2Mhak6z1p58aw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639223564198-228fa4lgbjetaqluetu6j2558271bu1j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
