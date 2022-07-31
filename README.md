@@ -1,6 +1,10 @@
-# firebase_crud_operations
+# CoffeeApp
 
-A new Flutter project.
+Developed an application using Flutter and Firebase, where users can sign in, register, and can order coffee
+Features:
+- Sign in/ Register
+- Choose coffee with the required strength and sugar needed
+- Editing filled data
 
 ## Getting Started
 
